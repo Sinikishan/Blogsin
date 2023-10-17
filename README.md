@@ -1,4 +1,4 @@
-# Blogsin
+# Django Blogsin
 This is a Django project! creating a blog, adding a blog post, and learning about Django Admin, etc.
 This Project Blogsin has one application starting blog and another userauth.
 Through this application, you will learn to use
