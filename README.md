@@ -13,3 +13,7 @@ Django ListView, DetailView, CreateView
 Django Getting Started:https://youtu.be/RQ8IwrhmJks
 
 Django Model-View -Template: https://youtu.be/CKMamM88y9U
+
+Django ListView and DetailView: https://youtu.be/Ieo_mqAu81s
+
+Django - Including Bootstrap in HTML Code
