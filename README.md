@@ -24,3 +24,5 @@ Django - User Authentication -Login -Register - Logout: https://youtu.be/PnDCJfG
 
 Django User Authentication -Login -Register - Logout- is_authenticated? : https://youtu.be/8otjXRv5_r0
 
+Django -Upload Images -Media URL -  https://youtu.be/T1KodC7cT0I
+
