@@ -8,6 +8,8 @@ Django Templates
 Django Static files
 Django Media files
 Django Model -View -Template Concept
-Django ListView, DetailView ,CreateView
+Django ListView, DetailView, CreateView
 
+Django Getting Started:https://youtu.be/RQ8IwrhmJks
 
+Django Model-View -Template: https://youtu.be/CKMamM88y9U
