@@ -16,4 +16,6 @@ Django Model-View -Template: https://youtu.be/CKMamM88y9U
 
 Django ListView and DetailView: https://youtu.be/Ieo_mqAu81s
 
-Django - Including Bootstrap in HTML Code : https://youtu.be/J3m3Z4ZYuXU
+Django - Including Bootstrap in HTML Code: https://youtu.be/J3m3Z4ZYuXU
+
+Django CreateView-Adding a post - Django Forms -https://youtu.be/QEgNh1WTNRc
