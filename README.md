@@ -10,6 +10,8 @@ Django Media files
 Django Model -View -Template Concept
 Django ListView, DetailView, CreateView
 
+Also, Check out another Django Example Gallery blog -https://github.com/Sinikishan/DJANGO-GalleryBlog
+
 Django Getting Started:https://youtu.be/RQ8IwrhmJks
 
 Django Model-View -Template: https://youtu.be/CKMamM88y9U
@@ -26,3 +28,4 @@ Django User Authentication -Login -Register - Logout- is_authenticated? : https:
 
 Django -Upload Images -Media URL -  https://youtu.be/T1KodC7cT0I
 
+Django Image retrieval from MongoDB - Usage of Djongo Engine and STATIC URL in Settings.py - https://youtu.be/0VAENL4m7qw
