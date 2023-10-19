@@ -20,4 +20,7 @@ Django - Including Bootstrap in HTML Code: https://youtu.be/J3m3Z4ZYuXU
 
 Django CreateView-Adding a post - Django Forms -https://youtu.be/QEgNh1WTNRc
 
-Django Django - User Authentication -Login -Register - Logout: https://youtu.be/PnDCJfGpk2Y
+Django - User Authentication -Login -Register - Logout: https://youtu.be/PnDCJfGpk2Y
+
+Django User Authentication -Login -Register - Logout- is_authenticated? : https://youtu.be/8otjXRv5_r0
+
